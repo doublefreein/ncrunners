@@ -77,6 +77,7 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
+| 2026 | March | NC LSoM | Community Marathon |  | [NC-LSoM: Details Awaited](https://www.ncrunners.in/NC_LSOM_2026) |
 | 2025 | March | NC LSoM | Community Marathon | 2000+ | [NC-LSoM: Shahid Diwas Theme](https://www.ncrunners.in/NC_LSOM_2025) |
 | 2024 | Nov | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
 | 2024 | March | NC LSoM | Community Marathon | 1800+ | [NC-LSoM: Runner's Safety Theme](https://yogeshpowar.github.io/blog/2024/04/01/NC_LSoM.html) |
@@ -107,6 +108,7 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
+| 2026 | February | Cycling | Pune to Bhor, Jayatwadi | 11 | [A Cycle Ride to Bamboo Setu at Jayatpada](https://yogeshpowar.github.io/blog/2026/02/16/BambooSetu.html) |
 | 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
 | 2021 | December | Cycling | Pune to Goa | 11 | Pune to Goa on Cycle |
 | 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |

@@ -41,7 +41,7 @@ emphasizing our commitment to promoting sports and well-being.
 
 | Location | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Madhuvanti | Rest | ST | Run | ST | Run | Yog/Cross | Long Run |
+| Madhuvanti | Rest | Run | ST | Run | ST | Yog/Cross | Long Run |
 | Sargam | Rest | Yog | Yog | Yog | Yog | Yog | |
 | Kalashree | Rest | Run | ST | Run | ST | Yog/Cross | Long Run |
 | Mangal Bhairav | Rest | Run | ST | Run | ST | Yog/Cross | Long Run |
@@ -77,7 +77,7 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2026 | March | NC LSoM | Community Marathon |  | [NC-LSoM: Details Awaited](https://www.ncrunners.in/NC_LSOM_2026) |
+| 2026 | March | NC LSoM | Community Marathon |  | [NC-LSoM: Digital Detox](https://www.ncrunners.in/NC_LSOM_2026) |
 | 2025 | March | NC LSoM | Community Marathon | 2000+ | [NC-LSoM: Shahid Diwas Theme](https://www.ncrunners.in/NC_LSOM_2025) |
 | 2024 | Nov | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
 | 2024 | March | NC LSoM | Community Marathon | 1800+ | [NC-LSoM: Runner's Safety Theme](https://yogeshpowar.github.io/blog/2024/04/01/NC_LSoM.html) |

@@ -33,8 +33,8 @@ emphasizing our commitment to promoting sports and well-being.
 
 ## NCRunners Challanges
 
-1. [No Sugar Challenge for 21 Days](/noSugar)
-2. [100 Days of Activities](/ncrhdc)
+1. [100 Days of Activities](/ncrhdc)
+2. [No Sugar Challenge for 21 Days](/noSugar)
 
 ## Weekly Training Sessions
 

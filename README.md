@@ -108,9 +108,11 @@ Sessions are held at morning 0530 to 0700.
 | [Home](./) | [Marathons](#marathons) | [Trek](#trek) | Cycling | [Swimming](#swimming) |
 
 <a  href="./assets/images/ncrunners_wari.jpeg"><img src="./assets/images/ncrunners_wari.jpeg" height="200px"></a>
+<a  href="./assets/images/mlk.jpeg"><img src="./assets/images/mlk.jpeg" height="200px"></a>
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
+| 2026 | June | Cycling | Manali, Leh, Khardung La | 8 | MLK: highest bike-able road in the word |
 | 2026 | February | Cycling | Pune to Bhor, Jayatwadi | 11 | [A Cycle Ride to Bamboo Setu at Jayatpada](https://yogeshpowar.github.io/blog/2026/02/16/BambooSetu.html) |
 | 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
 | 2021 | December | Cycling | Pune to Goa | 11 | Pune to Goa on Cycle |

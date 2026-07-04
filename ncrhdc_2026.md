@@ -36,5 +36,5 @@ Arranged by completed dates.
 | 27 | Vaijinath Langade| 02-07-2026 | 106 |
 | 28 | Mayur Biradar | 02-07-2026 | 106 |
 | 29 | Anirban Chakraborty | 03-07-2026 | 107 |
-
+| 30 | Rajesh More | 03-07-2026 | 107 |
 

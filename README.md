@@ -149,7 +149,10 @@ Every year, we collectively train for renowned running events, such as:
    - 20+ new individuals become runners every year.
 
 ---
+
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
 
 Except where otherwise noted, contents are licensed under a Creative Commons
 Attribution 4.0 International license

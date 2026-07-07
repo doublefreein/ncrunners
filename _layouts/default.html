@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }} — {{ site.tagline }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_newlines }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/images/ncrunners_logo.png' | relative_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/ncrunners_logo.png' | relative_url }}" alt="NCRunners logo">
+        <span>NCRunners</span>
+      </a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}#sessions">Sessions</a>
+        <a href="{{ '/' | relative_url }}#challenges">Challenges</a>
+        <a href="{{ '/' | relative_url }}#achievements">Achievements</a>
+        <a href="{{ '/' | relative_url }}#trainings">Trainings</a>
+        <a href="{{ '/' | relative_url }}#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        NCRunners — a decentralized, open community. Open to all.
+        <a href="{{ '/History/' | relative_url }}">Established 2017</a>.
+      </p>
+      <p>
+        Except where otherwise noted, contents are licensed under
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
+        · Developed by <a href="https://doublefree.in">doublefree.in</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

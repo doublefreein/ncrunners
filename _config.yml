@@ -1,0 +1,29 @@
+title: NCRunners
+tagline: Running community of Nanded City, Pune
+description: >-
+  NCRunners is a community of 250+ runners in and around Nanded City, Pune,
+  established in 2017. Free weekly sessions in running, strength training,
+  cycling, swimming, trekking and yoga.
+url: "https://www.ncrunners.in"
+lang: en
+
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
+  - HOWTO.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .claude
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

@@ -98,8 +98,10 @@ Sessions are held every morning, **05:30 to 07:00**.
 
 ### Cycling
 
-[![Pandharpur Cycle Wari](/assets/images/ncrunners_wari.jpeg)](/assets/images/ncrunners_wari.jpeg)
-[![Manali–Leh–Khardung La](/assets/images/mlk.jpeg)](/assets/images/mlk.jpeg)
+<div class="carousel">
+  <a href="/assets/images/ncrunners_wari.jpeg"><img src="/assets/images/ncrunners_wari.jpeg" alt="Pandharpur Cycle Wari" loading="lazy"></a>
+  <a href="/assets/images/mlk.jpeg"><img src="/assets/images/mlk.jpeg" alt="Manali–Leh–Khardung La" loading="lazy"></a>
+</div>
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |

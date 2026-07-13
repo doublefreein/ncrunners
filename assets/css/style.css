@@ -235,6 +235,36 @@ tbody tr:nth-child(even) { background: var(--bg-alt); }
   margin-top: -0.5rem;
 }
 
+/* ---------- image carousel ---------- */
+
+.carousel {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.25rem 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+.carousel > * {
+  flex: 0 0 88%;
+  scroll-snap-align: center;
+}
+
+.carousel > *:only-child { flex-basis: 100%; }
+
+.carousel img {
+  display: block;
+  width: 100%;
+}
+
+.carousel > *:not(:only-child) img {
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
 /* ---------- cards ---------- */
 
 .cards {
